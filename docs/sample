@@ -1,0 +1,11 @@
+[tags: example, current-affairs, news]
+
+This is a sample document which could link to [link: sample2 "another
+document"].
+
+[image: spy.jpeg]
+
+This is also an example of a very simplified plain-text template system which
+permits links, images and tags.  These elements can then be processed by a
+tool which converts the docs into a variety of different output formats: html,
+sqlite db, pdf etc...
